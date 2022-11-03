@@ -9,7 +9,7 @@ minimal guide to get started.
 
 View the thing [here](https://kbroman.org/github_tutorial).
 
----
+--- I added this line!
 
 This web site is licensed under
 [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/).
